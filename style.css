@@ -8,7 +8,7 @@ input {
   color: #fff;
   border-style: none;
 }
-.display{
+.display {
   width: 470px;
   height: 1--px;
   text-align: center;
@@ -19,5 +19,9 @@ input {
 
   margin-top: 20px;
 }
-
-
+#sum {
+  background-color: rgb(227, 70, 233);
+}
+#submission {
+  background-color: palevioletred;
+}
